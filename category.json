@@ -1,0 +1,153 @@
+{
+  "category": {
+    "Files-Manager": [
+      "ru.zdevs.zarchiver",
+      "com.estrongs.android.pop"
+    ],
+    "Files-Download": [
+      "idm.internet.download.manager.plus",
+      "com.dv.adm",
+      "com.snaptube.premium",
+      "com.video.fun.app",
+      "com.deniscerri.ytdl",
+      "hu.tagsoft.ttorrent.noads"
+    ],
+    "Xposed-Modules": [
+      "com.alex193a.tguseridviewer",
+      "com.berdik.macsposed",
+      "nep.timeline.re_telegram",
+      "Telegram.Speed.Hook",
+      "ltd.nextalone.pkginstallerplus",
+      "net.ankio.bluetooth",
+      "com.hhvvg.anytext",
+      "com.android1500.androidfaker",
+      "com.metris.xposed.bluetoothToolkitFree",
+      "com.hhvvg.ecm",
+      "com.varuns2002.disable_flag_secure",
+      "tn.amin.phantom_mic",
+      "com.wmods.wppenhacer",
+      "com.wmods.wppenhacer.w4b",
+      "io.github.hiro.lime",
+      "eu.faircode.xlua",
+      "eu.faircode.xlua.pro"
+    ],
+    "Apps-Require-Root": [
+      "com.topjohnwu.magisk"
+    ],
+    "Miscellaneous": [
+      "inyong.act",
+      "io.github.muntashirakon.captiveportalcontroller",
+      "com.weberdo.apps.copy",
+      "io.github.muntashirakon.AppManager",
+      "ru.aaaaabac.installer",
+      "com.arlosoft.macrodroid",
+      "org.fossify.gallery",
+      "org.fossify.messages",
+      "org.smssecure.smssecure",
+      "com.woodslink.android.wiredheadphoneroutingfix",
+      "com.termux",
+      "com.finalwire.aida64",
+      "com.applisto.appcloner",
+      "cm.aptoide.pt",
+      "com.aurora.store",
+      "com.juliansparber.captiveportallogin",
+      "org.fossify.contacts",
+      "com.dsemu.drastic",
+      "com.vibo.jsontool.premium",
+      "com.paragon.tcplugins_ntfs_ro",
+      "bin.mt.plus",
+      "bin.mt.plus.canary",
+      "com.hqgame.networknes",
+      "community.fairphone.mycontacts",
+      "app.greyshirts.sslcapture",
+      "com.pcapdroid.mitm",
+      "com.dijia1124.plusplusbattery",
+      "com.idea.backup.smscontacts",
+      "org.emunix.unipatcher",
+      "dubrowgn.wattz",
+      "com.webviewtest.app",
+      "ru.aaaaaccy.installer",
+      "com.cloudflare.onedotonedotonedotone",
+      "com.foxdebug.acode",
+      "com.androvidpro",
+      "com.abdurazaaqmohammed.AntiSplit",
+      "ru.maximoff.apktool",
+      "shareit.premium",
+      "com.lenovo.anyshare.gps",
+      "com.tafayor.hibernator",
+      "com.rhmsoft.edit.pro",
+      "com.atharok.barcodescanner",
+      "com.fpf.sentinellens",
+      "de.schliweb.makeacopy",
+      "me.bmax.apatch",
+      "com.ishacker.mtkeasysu",
+      "net.sourceforge.opencamera",
+      "rs.adsregex",
+      "antisplit.by.red.zone.developer",
+      "apk.tool.patcher",
+      "rikka.appops",
+      "com.itsaky.androidide",
+      "app.revanced.android.gms",
+      "in.ac.iiserpune.students.gakhare.harsh.iiserautofi",
+      "com.activitymanager",
+      "com.mirfatif.permissionmanagerx",
+      "com.compelson.optimizer",
+      "com.cyb3rko.flashdim",
+      "com.geode.launcher",
+      "in.blogspot.anselmbros.torchie",
+      "io.github.muntashirakon.setedit",
+      "eu.faircode.netguard",
+      "com.supernova.networkswitch",
+      "opencontacts.open.com.opencontacts",
+      "pl.lebihan.network",
+      "rkr.simplekeyboard.inputmethod",
+      "com.aefyr.sai",
+      "com.shazam.android",
+      "com.camel.corp.universalcopy",
+      "com.vitaodoidao.vdinfos",
+      "com.ngb.wpsconnect",
+      "io.github.muntashirakon.captiveportalcontroller.debug",
+      "com.tyron.code",
+      "com.xodo.pdf.reader"
+    ],
+    "Launchers": [
+      "amirz.rootless.nexuslauncher",
+      "ohi.andre.consolelauncher",
+      "org.fossify.home",
+      "com.bald.uriah.baldphone"
+    ],
+    "Google-Apps": [],
+    "Browsers": [
+      "io.github.forkmaintainers.iceraven",
+      "org.mozilla.fennec_fdroid"
+    ],
+    "Games": [
+      "com.robtopx.geometryjump",
+      "com.MA.LACD",
+      "com.devgame.masha.and.bear.pizzeria.games",
+      "com.thunderbull_entertainment.thepool",
+      "com.ForgeGames.SpecialForcesGroup2"
+    ],
+    "Navigation": [
+      "com.junjunguo.pocketmaps",
+      "net.osmand.plus"
+    ],
+    "Educational": [
+      "com.riversoft.android.mysword"
+    ],
+    "Social-Apps": [
+      "com.whatsapp",
+      "com.zhiliaoapp.musically.go",
+      "app.revanced.android.youtube",
+      "com.instaflow.android",
+      "com.myinsta.android",
+      "org.telegram.messenger.web",
+      "app.rvx.android.youtube"
+    ],
+    "Media-Players": [
+      "is.xyz.mpv",
+      "com.mxtech.videoplayer.pro",
+      "com.mxtech.videoplayer.ad"
+    ]
+  }
+}
